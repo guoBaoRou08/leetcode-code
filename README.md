@@ -22,4 +22,6 @@ LeetCode每日一题源码使用
 #### 同步
 
 1.  github地址：[https://github.com/guoBaoRou08/leetcode-code](https://github.com/guoBaoRou08/leetcode-code)
+2.  gitee地址：[https://gitee.com/jh_08/leetcode-code](https://gitee.com/jh_08/leetcode-code)
+
 
